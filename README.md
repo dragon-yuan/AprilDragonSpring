@@ -1,6 +1,9 @@
 # AprilDragonSpring
 ![](https://github.com/dragon-yuan/AprilDragonSpring/raw/master/src/main/webapp/images/pic.jpg)
 <br>
+```html
+推荐查看新整合框架项目，传送门：https://github.com/dragon-yuan/MySpringBootFrame
+```
 master
 ---
 
