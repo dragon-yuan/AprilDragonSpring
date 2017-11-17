@@ -2,7 +2,8 @@
 ![](https://github.com/dragon-yuan/AprilDragonSpring/raw/master/src/main/webapp/images/pic.jpg)
 <br>
 ```html
-推荐查看新整合框架项目，传送门：https://github.com/dragon-yuan/MySpringBootFrame
+此项目为初识SPRINGBOOT+HIBERNATE时期的入门框架整合，存在部分不成熟思想
+推荐您查看成熟一点后整合的框架项目，传送门：https://github.com/dragon-yuan/MySpringBootFrame
 ```
 master
 ---
