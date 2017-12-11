@@ -2,9 +2,9 @@
 ![](https://github.com/dragon-yuan/AprilDragonSpring/raw/master/src/main/webapp/images/pic.jpg)
 <br>
 ```html
-此项目为初识SPRINGBOOT+HIBERNATE时期的入门框架整合，存在部分不成熟思想
+此项目为初识SPRINGBOOT+HIBERNATE时期的入门框架整合，存在部分不成熟思想。。。（懵懂时期）
 ```
-推荐您查看成熟框架整合项目，传送门：[NovSpringBoot](https://github.com/dragon-yuan/NovSpringBoot).
+推荐您查看成熟框架整合项目：传送门：[NovSpringBoot](https://github.com/dragon-yuan/NovSpringBoot).
 
 master
 ---
